@@ -8,7 +8,6 @@ das ist ein Beispieltext
 ## Listen funktionieren auch
 
 - Item 1
-- Item 2
 - Item 3
 
 ## Ordered Lists funktionieren auch
